@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=UMMI%20KULSUM&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Aspiring%20Data%20Analyst&descAlignY=57&descSize=18&animation=fadeIn" alt="Ummi Kulsum" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ummi%20Kulsum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ummi-kulsum-a1532b310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ummi%20Kulsum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ummi-kulsum-a1532b310)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ummikulsum1947@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kulsumummi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulsumummi)
 
